@@ -6,4 +6,4 @@ $ npm install express body-parser cors mongoose axios
 
 $ npm install --save nodemailer
 
-npm install moment --save 
+$npm install moment --save 
